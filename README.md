@@ -1,7 +1,7 @@
 <!-- Profile README for seifeda -->
 
 <h1 align="center">Hi 👋, I'm Seife Bekele</h1>
-<h3 align="center">Software Engineer | Backend Developer | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/seifeda">
@@ -13,9 +13,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building systems using **Java**, **Spring Boot**, **PostgreSQL**, and **React**
+- 🔭 I’m currently building systems using **ASP.Net Core** **Java**, **Spring Boot**, **SQl Server**,**PostgreSQL**, and **React**
 - 🌱 I'm expanding my skills in **Web3**, **AI/ML**, and **Cloud Architecture**
-- 🎓 Currently pursuing my Master's in Computer Science at **Maharishi International University**
 - 💬 Ask me about backend development, software architecture, Spring ecosystem, and system design
 - ⚡ Fun fact: I enjoy mentoring others and solving logic puzzles
 
@@ -49,8 +48,8 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seifebekele)
-- 📧 Email: seifebekele999@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/seife-bekele)
+- 📧 Email: seifebekele07@gmail.com
 
 ---
 
