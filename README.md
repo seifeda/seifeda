@@ -1,8 +1,9 @@
 <!-- GitHub Profile README for Seife Bekele -->
 
 <p align="center">
-  <img src="https://your-cover-image-url.com/cover.jpg" alt="cover" width="100%" />
+  <img src="banner.jpg.jpg" alt="cover" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Seife Bekele</h1>
 
