@@ -14,8 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently building enterprise systems using **Spring Boot**, **ASP.NET Core**, **React**, and **PostgreSQL**
-- 🌱 Learning **AI/ML**, **Web3**, and **Cloud Infrastructure**
-- 🎓 Pursuing a Master’s in Computer Science at **Maharishi International University**
+- 🌱 Learning **Cloud Infrastructure**, **AI/ML**, and **Web3**
 - 💬 Ask me about **Java**, **C#**, **.NET**, **Spring Boot**, and **SQL-based databases**
 - ⚡ Fun fact: I love clean code, solving logical problems, and mentoring junior devs
 
