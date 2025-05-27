@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Seife Bekele -->
 
 <p align="center">
-  <img src="banner.jpg.jpg" alt="cover" width="100%" />
+  <img src="Cover.jpg" alt="cover" width="100%" />
 </p>
 
 
