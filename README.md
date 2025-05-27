@@ -1,64 +1,71 @@
-<!-- Profile README for seifeda -->
-
-<h1 align="center">Hi 👋, I'm Seife Bekele</h1>
-<h3 align="center">Full Stack Developer || Spring Boot || ASP.NET || Java || C# || SQL Server || MySQL</h3>
+<!-- GitHub Profile README for Seife Bekele -->
 
 <p align="center">
-  <a href="https://github.com/seifeda">
-    <img src="https://komarev.com/ghpvc/?username=seifeda&label=Profile%20views&color=0e75b6&style=flat" alt="seifeda" />
-  </a>
+  <img src="https://your-cover-image-url.com/cover.jpg" alt="cover" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Seife Bekele</h1>
+
+<p align="center">
+  <img src="https://your-profile-photo-url.com/profile.jpg" width="150" height="150" style="border-radius: 50%" alt="seife" />
+</p>
+
+<h3 align="center">🚀 Full Stack Developer | Spring Boot | ASP.NET | Java | C# | SQL Server | MySQL | Postgresql</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently building enterprise systems using **Spring Boot**, **ASP.NET Core**, **React**, and **PostgreSQL**
-- 🌱 Learning **Cloud Infrastructure**, **AI/ML**, and **Web3**
+- 🔭 I’m currently working on enterprise software systems using **Spring Boot**, **.NET**, and **React**
+- 🌱 Learning **AI**, **Web3**, and **Cloud technologies**
 - 💬 Ask me about **Java**, **C#**, **.NET**, **Spring Boot**, and **SQL-based databases**
+- 📫 How to reach me: **seifebekele999@gmail.com**
 - ⚡ Fun fact: I love clean code, solving logical problems, and mentoring junior devs
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Languages & Tools
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & IDEs**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=seifeda&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeda&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📌 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seife-bekele)
-- 📧 Email: seifebekele07@gmail.com
+| Project Name | Tech Stack | Demo |
+|--------------|------------|------|
+| 🏥 Selihom Mentally Ill People Support System | Spring Boot, PostgreSQL, React | _Coming soon..._ |
+| 💳 Banking Microservices System | Spring Boot, Eureka, Gateway, JWT | _Coming soon..._ |
+| 🧾 HR Leave Management System | ASP.NET, SQL Server, Crystal Reports | _Coming soon..._ |
 
 ---
 
-> *"Turning ideas into clean, scalable code — one line at a time."*
+### 📊 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seifeda&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeda&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seife-bekele)
+- ✉️ Email: **seifebekele07@gmail.com**
+
+---
+
+> “Code with purpose. Deploy with confidence. Learn without limits.” — Seife Bekele
