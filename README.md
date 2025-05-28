@@ -7,10 +7,6 @@
 
 <h1 align="center">Hi 👋, I'm Seife Bekele</h1>
 
-<p align="center">
-  <img src="https://your-profile-photo-url.com/profile.jpg" width="150" height="150" style="border-radius: 50%" alt="seife" />
-</p>
-
 <h3 align="center">🚀 Full Stack Developer | Spring Boot | ASP.NET | Java | C# | SQL Server | MySQL | Postgresql</h3>
 
 ---
