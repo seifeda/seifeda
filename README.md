@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on enterprise software systems using **Spring Boot**, **.NET**, and **React**
 - 🌱 Learning **AI**, **Web3**, and **Cloud technologies**
 - 💬 Ask me about **Java**, **C#**, **.NET**, **Spring Boot**, and **SQL-based databases**
-- 📫 How to reach me: **seifebekele999@gmail.com**
+- 📫 How to reach me: **seifebekele07@gmail.com**
 - ⚡ Fun fact: I love clean code, solving logical problems, and mentoring junior devs
 
 ---
